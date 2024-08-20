@@ -1,5 +1,6 @@
 import pandas as pd
 import streamlit as st
+import matplotlib.pyplot as plt
 
 # Tampilkan judul
 st.title('Proyek Analisa Data : E-Commerce')
